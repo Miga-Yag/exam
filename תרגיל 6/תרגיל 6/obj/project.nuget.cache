@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "ID8XgZwZ8Bw6esOcMDsf2vrtxNqo//Yw8YmqShwBrTsJDLsRXV9AOi9TXoD1a/zUQuDwcqX6wb86+rnaFrV/WQ==",
+  "success": true,
+  "projectFilePath": "E:\\Discord-Bots\\School\\הכנה למבחן מסכם כיתה י\\דף עבודה\\תרגיל 6\\תרגיל 6\\תרגיל 6.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\MihaLion\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\MihaLion\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\MihaLion\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
